@@ -32,6 +32,7 @@ object biblioteca {
 
 object munieco {
 	var _peso 
+	var _color
 	
 	method color() { return _color }
 	method material() { return vidrio }
